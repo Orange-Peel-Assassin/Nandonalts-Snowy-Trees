@@ -8,7 +8,8 @@
 	<Nandonalt_SnowyTrees.SnowyPlantDef>
 		<defName>Plant_Berry</defName>
 		<immatureSnowyPath>Things/SnowyPlant/BerryPlant_Immature_Snowy</immatureSnowyPath>
-		<!--regularSnowyPath>Things/SnowyPlant/BerryPlant_Snowy</regularSnowyPath-->
+		<leaflessSnowyPath>Things/SnowyPlant/BerryPlant_Leafless</leaflessSnowyPath>
+		<regularSnowyPath>Things/SnowyPlant/BerryPlant_Snowy</regularSnowyPath>
 	</Nandonalt_SnowyTrees.SnowyPlantDef>
 	
 	
@@ -29,5 +30,31 @@
 		<defName>Plant_Chokevine</defName>
 		<leaflessSnowyPath>Things/SnowyPlant/Chokevine_Leafless_Snowy</leaflessSnowyPath>
 		<regularSnowyPath>Things/SnowyPlant/Chokevine_Snowy</regularSnowyPath>
+	</Nandonalt_SnowyTrees.SnowyPlantDef>
+	
+	<Nandonalt_SnowyTrees.SnowyPlantDef>
+		<defName>Plant_Healroot</defName>
+		<regularSnowyPath>Things/SnowyPlant/Healroot_Snowy</regularSnowyPath>
+	</Nandonalt_SnowyTrees.SnowyPlantDef>
+	
+	<Nandonalt_SnowyTrees.SnowyPlantDef>
+		<defName>Plant_HealrootWild</defName>
+		<regularSnowyPath>Things/SnowyPlant/HealrootWild_Snowy</regularSnowyPath>
+	</Nandonalt_SnowyTrees.SnowyPlantDef>
+	
+	<Nandonalt_SnowyTrees.SnowyPlantDef>
+		<defName>Plant_Clivia</defName>
+		<regularSnowyPath>Things/SnowyPlant/Clivia_Snowy</regularSnowyPath>
+	</Nandonalt_SnowyTrees.SnowyPlantDef>
+	
+	<Nandonalt_SnowyTrees.SnowyPlantDef>
+		<defName>Plant_Rafflesia</defName>
+		<regularSnowyPath>Things/SnowyPlant/Rafflesia_Snowy</regularSnowyPath>
+	</Nandonalt_SnowyTrees.SnowyPlantDef>
+	
+	<Nandonalt_SnowyTrees.SnowyPlantDef>
+		<defName>Plant_Alocasia</defName>
+		<leaflessSnowyPath>Things/SnowyPlant/Alocasia_Leafless_Snowy</leaflessSnowyPath>
+		<regularSnowyPath>Things/SnowyPlant/Alocasia_Snowy</regularSnowyPath>
 	</Nandonalt_SnowyTrees.SnowyPlantDef>
 </Defs>
